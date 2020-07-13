@@ -4,7 +4,7 @@
  To be more specific, I made **most** of it, the audio portions and the function that determines the logic of the random movement was made by a teammate
  
  
-The gane can be found here:
+The game can be played here:
 https://yamartim.itch.io/sine-imperium
 
 ## Game description:
