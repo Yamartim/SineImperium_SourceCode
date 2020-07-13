@@ -1,5 +1,7 @@
 # Sine Imperium Source Code
- All the code i made for my game Sine Imperium
+ All the code I made for my game Sine Imperium
+
+ To be more specific, I made **most** of it, the audio portions and the function that determines the logic of the random movement was made by a teammate
  
  
 The gane can be found here:
